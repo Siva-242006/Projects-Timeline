@@ -1,5 +1,8 @@
 Projects Timeline:
-to checkout visit 'https://siva-242006.github.io/Prime-Video/'
+
+to checkout visit
+'https://siva-242006.github.io/Prime-Video/'
+
 ### Refer to the image below:
 
 <br/>
