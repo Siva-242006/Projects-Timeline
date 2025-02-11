@@ -260,7 +260,8 @@ const timelineItemsList = [
     title: '26 DECEMBER 2024',
     projectTitle: 'Nxt Trendz',
     description:
-      'Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc.',
+      'Nxt Trendz application is an E-commerce application like Amazon, Flipkart where users can log in and see the list of products with search, filters, sort by, etc. 
+      use this username: 'rahul' and password: 'rahul@2021'',
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/nxt-trendz-img.png',
     duration: '6 hrs',
     projectUrl: 'https://nxtz.ccbp.tech/',
