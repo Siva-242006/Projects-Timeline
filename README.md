@@ -1,5 +1,5 @@
-In this project, let's build a **CCBP Timeline** by applying the concepts we have learned till now.
-
+Projects Timeline:
+to checkout visit 'https://siva-242006.github.io/Prime-Video/'
 ### Refer to the image below:
 
 <br/>
