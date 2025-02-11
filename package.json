@@ -1,6 +1,7 @@
 {
   "name": "ccbp-timeline",
   "private": true,
+  "homepage": "https://Siva-242006.github.io/Prime-Video",
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
@@ -31,8 +32,10 @@
     "react-scripts": "4.0.3"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "craco test",
     "lint": "eslint .",
     "lint:fix": "eslint --fix src/",
